@@ -39,15 +39,14 @@ input {
     display: block;
     margin: 20px auto;
     padding: 10px;
-    border: none;
-    outline: none;
+    border-color:black;
+    border-radius: 10px;
 }
 
 button {
     width: 100%;
     padding: 10px;
     background-color:#3D2C8D;
-    border: none;
     outline: none;
     border-radius: 10px; 
     font-size: 15px;
